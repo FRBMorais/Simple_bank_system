@@ -18,3 +18,5 @@ A função "criaobjetoconta()" é responsável por instanciar uma conta utilizan
 A função "criatabela()" cria uma tabela inicial na database "card.3sdb"
 """"- --------------------------------------------------------------------------------------------
 
+
+Este projeto foi retirado do site "https://www.jetbrains.com/pt-br/", onde foram passados os requisitos com o que o programa deveria realizar, enquanto o próprio site fez a realização do cumprimento destes requisitos.
